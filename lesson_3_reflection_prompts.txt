@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+first of all, is much safer - in case my local computer brokes
+than, when collaborating, you need to have a remote.
